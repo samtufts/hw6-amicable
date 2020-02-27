@@ -1,0 +1,44 @@
+body {
+    font-family: Roboto, sans-serif;
+    margin-left: 30px;
+}
+
+p {
+    margin: 0px;
+    padding-top: 10px;
+}
+
+#result {
+    margin-top: 25px;
+    font-weight: bold;
+}
+#show-control {
+    border: 2px solid #c530b9;
+    width: 500px;
+    padding: 25px;
+}
+
+
+input {
+    margin-bottom: 20px;
+    border-radius: 2px;
+    border: 1px solid #254087;
+    height: 20px;
+    margin-top: 5px;
+}
+
+form p {
+    font-size: 15px;
+}
+
+
+
+#button {
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    border-radius: 2px;
+    background-color: #c530b9;
+    color: #FFF;
+    min-height: 40px;
+}
+
